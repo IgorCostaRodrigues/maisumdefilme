@@ -1,11 +1,15 @@
 # maisumdefilme
 Um catálago de filmes.   um projeto básico de full stack
 
-É um site de Catálogo de Filmes
+Sobre o projeto.
 
-Descrição :
+É um site de Catálogo de Filmes onde você pode comentar com outras pessoas o que você achou do filme.
 
-Um site de catálogo de filmes usando a API TMDB que permite ao usuário fazer CRUD nas críticas de cada filme.
+Pode ser que você esteja esperando só alguém comentar pra poder assistir tal filme.
+
+Descrição 
+
+Nosso catálogo de filmes está usando a API TMDB que permite ao usuário fazer CRUD nas críticas de cada filme.
 
 tecnologias :
 
